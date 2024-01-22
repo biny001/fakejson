@@ -1,0 +1,109 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "artist": "Ed Sheeran",
+      "title": "Shape of You",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "3:53"
+    },
+    {
+      "id": 2,
+      "artist": "Michael Jackson",
+      "title": "Billie Jean",
+      "coverArt": "https://i1.sndcdn.com/artworks-000175431936-ly5jpn-t500x500.jpg",
+      "duration": "4:54"
+    },
+    {
+      "id": 3,
+      "artist": "Justin Bieber",
+      "title": "Sorry",
+      "coverArt": "data:image/jpeg;base64,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",
+      "duration": "3:20"
+    },
+    {
+      "id": 4,
+      "artist": "Ariana Grande",
+      "title": "Thank U, Next",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "3:27"
+    },
+    {
+      "id": 5,
+      "artist": "The Weeknd",
+      "title": "Blinding Lights",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "3:22"
+    },
+    {
+      "id": 6,
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "3:39"
+    },
+    {
+      "id": 7,
+      "artist": "Beyoncé",
+      "title": "Single Ladies (Put a Ring on It)",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "3:13"
+    },
+    {
+      "id": 8,
+      "artist": "Drake",
+      "title": "Hotline Bling",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "4:27"
+    },
+    {
+      "id": 9,
+      "artist": "Rihanna",
+      "title": "Umbrella",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "4:35"
+    },
+    {
+      "id": 10,
+      "artist": "Bruno Mars",
+      "title": "Uptown Funk",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "4:31"
+    },
+    {
+      "id": 11,
+      "artist": "Katy Perry",
+      "title": "Roar",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "3:42"
+    },
+    {
+      "id": 12,
+      "artist": "Post Malone",
+      "title": "Circles",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "3:34"
+    },
+    {
+      "id": 13,
+      "artist": "Dua Lipa",
+      "title": "Don't Start Now",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "3:03"
+    },
+    {
+      "id": 14,
+      "artist": "Imagine Dragons",
+      "title": "Radioactive",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "3:07"
+    },
+    {
+      "id": 15,
+      "artist": "Shawn Mendes",
+      "title": "Senorita",
+      "coverArt": "https://www.thisisdig.com/wp-content/uploads/2021/08/es-divide-final-artwork-lo-res-e1628675708209.jpg",
+      "duration": "3:11"
+    }
+  ]
+}
